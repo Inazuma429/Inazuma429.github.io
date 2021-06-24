@@ -1,1 +1,18 @@
-theme: jekyll-theme-slate
+# Site settings
+name: PYD
+location: 石家庄
+company: 石家庄铁道大学
+position: 学生
+github: https://github.com/Inazuma429
+phone: 1820323XXXX
+email: pydforgithub@163.com
+
+baseurl: "/"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
